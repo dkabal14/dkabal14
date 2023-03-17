@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkabal" alt="dkabal" /></a> </p>
 
-- 🔭 I’m currently working on [(Ongoind%20upgrade%20of%20this%20%40lazyadmin%20script)Bulk-DiacriticsRemove.ps1](https://github.com/dkabal14/Portfolio-de-Scripts/blob/main/PowerShell/(Ongoind%20upgrade%20of%20this%20%40lazyadmin%20script)Bulk-DiacriticsRemove.ps1)
+- 🔭 I’m currently working on [(CustomQueries_REST)](https://github.com/dkabal14/Portfolio-de-Scripts/blob/main/PowerShell/)
 
 - 🌱 I’m currently learning **Python for Data Science with Pandas**
 
